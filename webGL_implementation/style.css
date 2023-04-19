@@ -1,6 +1,16 @@
-
 .graph-container {
     height: 1000px;
     width: 1000px;
     margin: 0 auto;
+}
+
+svg {
+    height: 100%;
+    width: 100%;
+    overflow: visible;
+    background-color: black;
+}
+
+body {
+    background-color: black;
 }
